@@ -14,7 +14,7 @@ Nov 2022 Codi_Tech <br />
 SelfLearning at home.
 
 ## Languages
-. Arabic
-. English
-. Francais
+. Arabic <br />
+. English <br />
+. Francais <br />
 ![Pic of flowe](../../Downloads/1.jpg "Flower")
