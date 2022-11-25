@@ -1,8 +1,9 @@
-<img align="right" top="0" width="150" height="150" src="https://user-images.githubusercontent.com/101974539/204000483-73e9eb95-0a3a-41dc-aaac-037fcdcef89e.jpeg"> 
-# Mahmoud Kalekish 
+<div><img align="right" top="0" width="150" height="150" src="https://user-images.githubusercontent.com/101974539/204000483-73e9eb95-0a3a-41dc-aaac-037fcdcef89e.jpeg"> 
 email: mahmoudkalekish18@gmail.com  <br />
 Birth: 17/11/2000 <br />
-Phone: +961 76734358<br />
+Phone: +961 76734358<br /></div>
+# Mahmoud Kalekish 
+
 
 ## Full-stack developer
 ## Lebanon,Beirut <br />
