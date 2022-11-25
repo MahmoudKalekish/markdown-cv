@@ -17,4 +17,7 @@ SelfLearning at home.
 . Arabic <br />
 . English <br />
 . Francais <br />
-![Pic of flowe](../../Downloads/1.jpg "Flower")
+
+<br />
+
+![1](https://user-images.githubusercontent.com/101974539/203999805-7a66a6aa-d16c-4e64-b943-c086cff4bf28.jpg)
