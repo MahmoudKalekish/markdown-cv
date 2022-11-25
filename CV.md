@@ -11,4 +11,4 @@ November 2022: Bachelor Degree in MAnagement information system
 
 ## Professional Experiences
 Nov 2022 Codi_Tech
-
+Selflearning at home.
