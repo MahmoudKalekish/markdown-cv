@@ -1,6 +1,7 @@
 # Mahmoud Kalekish
 ## Full-stack developer
-## Lebanon,Beirut mahmoudkalekish18@gmail.com 
+## Lebanon,Beirut <br />
+mail: mahmoudkalekish18@gmail.com 
 
 ## Summary
 I'm a hard-working enthusiastic fresh management information system graduate from Lebanese University.
