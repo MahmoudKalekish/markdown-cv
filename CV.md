@@ -10,5 +10,11 @@ I'm a hard-working enthusiastic fresh management information system graduate fro
 November 2022: Bachelor Degree in Management information system
 
 ## Professional Experiences
-Nov 2022 Codi_Tech &&
+Nov 2022 Codi_Tech <br />
 Selflearning at home.
+
+## Languages
+. Arabic
+. English
+. Francais
+![Pic of flowe](../../Downloads/1.jpg "Flower")
