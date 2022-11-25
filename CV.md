@@ -2,7 +2,7 @@
 
 ## Full-stack developer
 ## Lebanon,Beirut <br />
-<img align="left" width="100" height="100" src="![Mahmoud](https://user-images.githubusercontent.com/101974539/204000483-73e9eb95-0a3a-41dc-aaac-037fcdcef89e.jpeg)">
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/101974539/204000483-73e9eb95-0a3a-41dc-aaac-037fcdcef89e.jpeg">
 
 mail: mahmoudkalekish18@gmail.com  <br />
 Birth: 17/11/2000 <br />
