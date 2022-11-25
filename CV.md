@@ -1,4 +1,6 @@
-# Mahmoud Kalekish
+# Mahmoud Kalekish <br />
+17/11/2000 <br />
++961 76734358
 ## Full-stack developer
 ## Lebanon,Beirut <br />
 mail: mahmoudkalekish18@gmail.com 
