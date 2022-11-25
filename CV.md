@@ -3,8 +3,8 @@
 ## Full-stack developer
 ## Lebanon,Beirut <br />
 mail: mahmoudkalekish18@gmail.com  <br />
-17/11/2000 <br />
-+961 76734358
+Birth: 17/11/2000 <br />
+Phone: +961 76734358
 ## Summary
 I'm a hard-working enthusiastic fresh management information system graduate from Lebanese University.
 
