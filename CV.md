@@ -11,7 +11,7 @@ November 2022: Bachelor Degree in Management information system
 
 ## Professional Experiences
 Nov 2022 Codi_Tech <br />
-Selflearning at home.
+SelfLearning at home.
 
 ## Languages
 . Arabic
